@@ -2,7 +2,7 @@ print("==============================================")
 print("              BIODATA DAN DATA SAYA")
 print("==============================================")
 
-nama = "SRI RAHMAWATI"
+nama ="sri rahmawati "
 kelas = "10,4"
 sekolah = "SMA PGRI CICURUG"
 hobi = "Bermain TIKTOK"
